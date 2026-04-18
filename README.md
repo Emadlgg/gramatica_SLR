@@ -102,7 +102,7 @@ El algoritmo se repite hasta que no se puedan agregar más ítems.
 
 ## Video Explicativo
 
-[![Video Explicativo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/VIDEO_ID)
+[![Video Explicativo](https://img.youtube.com/vi/8VErKkWy5VkD/maxresdefault.jpg)](https://youtu.be/8VErKkWy5VkD)
 
 **Contenido del video:**
 - Explicación del concepto de cerradura LR(0)
